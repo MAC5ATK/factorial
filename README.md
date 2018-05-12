@@ -1,5 +1,3 @@
 /*
 This is a practice program I wrote for my first factorial problem in C.
-
-
 */
